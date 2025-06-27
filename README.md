@@ -10,5 +10,3 @@ Exploratory Data Analysis on Haberman's survival data analysis, For detailed cod
 https://medium.com/@mvschamanth/exploratory-data-analysis-habermans-survival-data-set-f402fb9cf910
 
 ---------------------------------------------------------------------------------------------------
-
-EDA and least similarity between observations (This is very basic and simple analysis) For detailed notebook refer to this source https://www.kaggle.com/chamanthmvs/eda-and-least-similarity-b-w-observations/data
